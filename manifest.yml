@@ -1,0 +1,7 @@
+---
+applications:
+- name: cf-ngx-admin
+  path: ./dist
+  memory: 64M
+  disk: 200M
+  buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
