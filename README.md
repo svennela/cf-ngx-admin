@@ -21,8 +21,6 @@ Easy way to integrate ngx-admin with .NET, Node.js, Java or PHP. [Checkout our S
 
 #### Light
 
-<a target="_blank" href="http://akveo.com/ngx-admin/pages/dashboard?theme=default&utm_source=github&utm_medium=ngx_admin_readme&utm_campaign=themes"><img src="https://i.imgur.com/cb9U34M.jpg"/></a>
-
 ### Installation:
 npm i
 npm run build:prod
